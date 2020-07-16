@@ -1,9 +1,13 @@
 body{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: oblique;
+    margin: 0;
+
+
 }
 
 h1{
+    font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: bold;
 }
@@ -11,4 +15,29 @@ h1{
 p{
     color: #5c373d;
     margin: 10px;
+}
+
+li{
+    list-style-type: none;
+    
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 2vw;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav{
+    width: 100vw;
+    background-color: #d6efff;
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+    
+
 }
