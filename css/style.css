@@ -9,24 +9,31 @@ body{
 
 }
 
+header{
+
+    color: #0d2344;
+}
+
 h1, h2{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: bolder;
+    color: rgb(226, 43, 61);
 }
 
 
 
 p{
-    color: #5c373d;
+    color: #0d2344;
     margin: 10px;
+    width: auto;
     line-height: 1.6em;
     
 
 }
 
 li{
-    color: #5c373d;
+    color: #0d2344;
     text-align: center;
     margin: 10px;
     width: auto;
@@ -44,11 +51,12 @@ a{
 
 nav{
     width: 100vw;
-    background-color: burlywood;
+    background-color: rgb(226, 43, 61);
 }
 
+
 ul{
-    margin: 10;
+    margin: 10px;
     padding: 0;
     
 
