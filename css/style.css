@@ -4,9 +4,7 @@ body{
     margin: 0;
     padding: 0;
     height: 100%;
-    weight: 100%
-
-
+    weight: 100%;
 }
 
 header{
@@ -14,12 +12,13 @@ header{
     color: #0d2344;
 }
 
-h1, h2{
+h1, h2, h3{
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     font-weight: bolder;
     color: rgb(226, 43, 61);
-}
+}     
+    
 
 
 
@@ -27,9 +26,7 @@ p{
     color: #0d2344;
     margin: 10px;
     width: auto;
-    line-height: 1.6em;
-    
-
+    line-height: 1.6em; 
 }
 
 li{
@@ -38,26 +35,19 @@ li{
     margin: 10px;
     width: auto;
     vertical-align: middle;
-    position: relative;
-    
+    position: relative;  
 }
 
-a{
-    text-decoration: none;
-    color: black;
-    padding: 2vw;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 
 nav{
     width: 100vw;
     background-color: rgb(226, 43, 61);
+    padding: 0px;
+    text-align-last: auto;
 }
 
 
 ul{
     margin: 10px;
     padding: 0;
-    
-
 }
