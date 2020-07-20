@@ -56,12 +56,12 @@ ul{
 }
 
 
-/* FORM Styling */
+/* Form Styling */
 form {
     /* Center the form on the page */
     margin: 0 auto;
     width: 400px;
-    /* Form outline */
+
     padding: 1em;
     border: 1px solid #CCC;
     border-radius: 1em;
@@ -88,8 +88,6 @@ form {
   textarea {
    
     font: 1em sans-serif;
-  
-    /* Uniform text field size */
     width: 300px;
     box-sizing: border-box;
     border: 1px solid #999;
