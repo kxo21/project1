@@ -7,7 +7,7 @@ Focusing on their collegiate and professional careers, as well as their individu
  Details and Functionalities: The main purpose was to create a webpage that compares three young NFL QB's who have made a name for themselves and seperated themselves from the rest of the league. 
  Each html page will focus on each individual player.
 
-Technologies Used: HTML, CSS, Boostrap, JS
+Technologies Used: .html, .css, Boostrap, ,js
 
 
 Ideas for future improvement:
